@@ -1,0 +1,13 @@
+Emotion Analytics Summary 
+Generated on: 2025-05-15 00:04:59
+Total records: 3
+Date range: 2025-05-14 to 2025-05-15
+Number of students: 2
+
+Emotion Distribution:
+  - neutral: 2 records (66.7%)
+  - happy: 1 records (33.3%)
+
+Most common emotion by student:
+  - Rahma: neutral
+  - Nada: happy

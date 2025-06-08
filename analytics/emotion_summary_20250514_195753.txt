@@ -1,0 +1,8 @@
+Emotion Analytics Summary 
+Generated on: 2025-05-14 19:57:53
+Total records: 1
+Date range: 2025-05-14 to 2025-05-14
+Number of students: 1
+
+Emotion Distribution:
+  - neutral: 1 records (100.0%)

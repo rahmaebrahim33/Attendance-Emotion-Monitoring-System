@@ -1,0 +1,4 @@
+server=smtp.gmail.com
+port=587
+username=rahmaebrahim1555@gmail.com
+sender=rahma.ganana@ejust.edu.eg
