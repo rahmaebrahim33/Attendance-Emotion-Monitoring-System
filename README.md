@@ -133,10 +133,3 @@ The system recognizes the following gestures:
 - Tesseract OCR for document text extraction
 - OpenCV for computer vision capabilities
 
-## Credits :
-Rahma Ibrahmin 
-Mariam Asal 
-Aya Osamaa
-Shahd Abdelrahman 
-Nada Khlaed 
-Marwan AbdelMohymen
