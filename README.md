@@ -127,11 +127,16 @@ The system recognizes the following gestures:
 - Position document flat and fully visible in the frame
 - Adjust OCR settings for different document types
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - DeepFace for face recognition and emotion detection
 - MediaPipe for hand gesture recognition
 - Tesseract OCR for document text extraction
-- OpenCV for computer vision capabilities 
+- OpenCV for computer vision capabilities
+
+## Credits :
+Rahma Ibrahmin 
+Mariam Asal 
+Aya Osamaa
+Shahd Abdelrahman 
+Nada Khlaed 
+Marwan AbdelMohymen
